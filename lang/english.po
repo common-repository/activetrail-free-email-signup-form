@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: activetrail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-20 11:08+0100\n"
+"PO-Revision-Date: 2012-11-20 11:08+0100\n"
+"Last-Translator: Vertazzar | Edis Sehalic <vertazzar@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /home/vert/Dev/PHP/localhost/localhost.com/wp\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/activetrail\n"
+
+#: wp-content/plugins/activetrail/plugin.php:113
+msgid "ActiveTrail Account"
+msgstr "ActiveTrail Account"
+
+#: wp-content/plugins/activetrail/plugin.php:117
+msgid "Create Signup Form"
+msgstr "Create Signup Form"
+
+#: wp-content/plugins/activetrail/plugin.php:118
+msgid "FAQ"
+msgstr "FAQ"
+
+#: wp-content/plugins/activetrail/plugin.php:125
+msgid "Only E-mail, label above"
+msgstr "Only E-mail, label above"
+
+#: wp-content/plugins/activetrail/plugin.php:130
+msgid "Only E-mail, inline"
+msgstr "Only E-mail, inline"
+
+#: wp-content/plugins/activetrail/plugin.php:135
+msgid "First name, last name, e-mail, all inline"
+msgstr "First name, last name, e-mail, all inline"
+
+#: wp-content/plugins/activetrail/plugin.php:140
+msgid "First name, last name, e-mail, labels inline"
+msgstr "First name, last name, e-mail, labels inline"
+
+#: wp-content/plugins/activetrail/plugin.php:145
+msgid "First name, last name, e-mail, labels above"
+msgstr "First name, last name, e-mail, labels above"
+
+#: wp-content/plugins/activetrail/plugin.php:356
+msgid "This field is required"
+msgstr "This field is required"
+
+#: wp-content/plugins/activetrail/plugin.php:357
+msgid "is required"
+msgstr "is required"
+
+#: wp-content/plugins/activetrail/plugin.php:576
+msgid "Configuration saved."
+msgstr "Configuration saved."
+
+#: wp-content/plugins/activetrail/plugin.php:581
+msgid "Login <b>success</b>. Configuration is done!"
+msgstr "Login <b>success</b>. Configuration is done!"
+
+#: wp-content/plugins/activetrail/plugin.php:585
+msgid "Login <b>failed</b>. It seems that your username/password combination is not correct. Please try again."
+msgstr "Login <b>failed</b>. It seems that your username/password combination is not correct. Please try again."
+
+#: wp-content/plugins/activetrail/plugin.php:834
+msgid "Not a valid e-mail address."
+msgstr "Not a valid e-mail address."
+
+#: wp-content/plugins/activetrail/plugin.php:849
+msgid "This e-mail address already exists on our lists."
+msgstr "This e-mail address already exists on our lists."
+
+#: wp-content/plugins/activetrail/plugin.php:915
+#, fuzzy
+msgid "You have successfully subscribed to our list."
+msgstr "You have successfully subscribed to our list"
+
+#: wp-content/plugins/activetrail/plugin.php:924
+msgid "We could not insert you to our mailing list because of server error. Please contact our support or try again later."
+msgstr "We could not insert you to our mailing list because of server error. Please contact our support or try again later."
+
+#: wp-content/plugins/activetrail/plugin.php:961
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: wp-content/plugins/activetrail/plugin.php:1113
+#, fuzzy
+msgid "ActiveTrail Signup Form."
+msgstr "Create Signup Form"
+
+#: wp-content/plugins/activetrail/views/admin.php:3
+#, fuzzy
+msgid "Configure ActiveTrail"
+msgstr "Configure Active Trail"
+
+#: wp-content/plugins/activetrail/views/layouts/_more_fields_block_no_style.php:3
+#: wp-content/plugins/activetrail/views/layouts/more_fields_horizontal.php:4
+#: wp-content/plugins/activetrail/views/layouts/more_fields_block.php:4
+#: wp-content/plugins/activetrail/views/layouts/more_fields_inline.php:6
+msgid "First Name"
+msgstr "First Name"
+
+#: wp-content/plugins/activetrail/views/layouts/_more_fields_block_no_style.php:9
+#: wp-content/plugins/activetrail/views/layouts/more_fields_horizontal.php:10
+#: wp-content/plugins/activetrail/views/layouts/more_fields_block.php:10
+#: wp-content/plugins/activetrail/views/layouts/more_fields_inline.php:10
+msgid "Last Name"
+msgstr "Last Name"
+
+#: wp-content/plugins/activetrail/views/layouts/_more_fields_block_no_style.php:15
+#: wp-content/plugins/activetrail/views/layouts/email_block.php:4
+#: wp-content/plugins/activetrail/views/layouts/more_fields_horizontal.php:16
+#: wp-content/plugins/activetrail/views/layouts/_email_block_no_style.php:3
+#: wp-content/plugins/activetrail/views/layouts/more_fields_block.php:16
+#: wp-content/plugins/activetrail/views/layouts/more_fields_inline.php:14
+#: wp-content/plugins/activetrail/views/layouts/email_inline.php:5
+msgid "E-mail"
+msgstr "E-mail"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:4
+msgid "Title:"
+msgstr "Title:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:12
+#, fuzzy
+msgid "Custom Text:"
+msgstr "Custom text"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:21
+msgid "Layout:"
+msgstr "Layout:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:31
+msgid "Groups:"
+msgstr "Groups:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:67
+msgid "All Subscribers"
+msgstr "All Subscribers"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:81
+msgid "Button text:"
+msgstr "Button text:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:90
+msgid "Success message:"
+msgstr "Success message:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:98
+msgid "Error message:"
+msgstr "Error message:"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:112
+msgid "Import users as verified"
+msgstr "Import users as verified"
+
+#: wp-content/plugins/activetrail/views/widgets/sign_up/admin.php:118
+msgid "Check this option to disable ajax"
+msgstr "Check this option to disable ajax"
+
+#: wp-content/plugins/activetrail/views/shortcodes/signup_form.php:41
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: wp-content/plugins/activetrail/views/sections/faq.php:7
+msgid "CSS styling"
+msgstr "CSS styling"
+
+#: wp-content/plugins/activetrail/views/sections/faq.php:8
+#, fuzzy
+msgid ""
+"CSS styling can be done very easy by applying basic CSS override rules by adding a <b>activetrail-custom.css</b> into <b>your theme folder</b> and it will be automatically included <i>after</i> the main plugin css.<br />\n"
+"\t\t   In that .css file you can write css rules, for example the color of the submit button border to red, by simply writing this line:\n"
+"\t\t   <br /><br />\n"
+"\t\t   <pre>body .atrail .btn { border:1px solid red; }</pre><br />And that's it!\n"
+"\t  "
+msgstr ""
+"CSS styling can be done very easy by selecting one of these styles:\n"
+"\t\t  <br />\n"
+"\t\t   <ul style=\"list-style:disc;\">\n"
+"\t\t      <li><b>%s</b></li>\n"
+"\t\t      <li><b>%s</b></li>\n"
+"\t\t   </ul>\n"
+"\t\t  \n"
+"\t\t   Those styles will behave based on your theme css style and won't use any plugin styles.<br /><br />\n"
+"\t\t   However, if you want to just change a bit the plugin style, you can do it by adding a <b>activetrail-custom.css</b> into <b>your theme folder</b> and it will be automatically included.<br />\n"
+"\t\t   In that .css file you can override, for example the color of the button border \"Sign up\" to red, by simply writing this line:\n"
+"\t\t   <br /><br />\n"
+"\t\t   <pre>body .atrail .btn { border:1px solid red; }</pre>\n"
+"\t  "
+
+#: wp-content/plugins/activetrail/views/sections/sync.php:4
+#: wp-content/plugins/activetrail/views/sections/sync.php:7
+msgid "Synchronize Groups"
+msgstr "Synchronize Groups"
+
+#: wp-content/plugins/activetrail/views/sections/sync.php:10
+msgid ""
+"By clicking this button, you will cache your groups inside database for better performance.\n"
+"\t\t\t By default, the system will cache groups every 24 hours automatically."
+msgstr ""
+"By clicking this button, you will cache your groups inside database for better performance.\n"
+"\t\t\t By default, the system will cache groups every 24 hours automatically."
+
+#: wp-content/plugins/activetrail/views/sections/sync.php:14
+msgid "List of available groups"
+msgstr "List of available groups"
+
+#: wp-content/plugins/activetrail/views/sections/logs.php:3
+msgid "Log entry"
+msgstr "Log entry"
+
+#: wp-content/plugins/activetrail/views/sections/logs.php:4
+msgid "Last change"
+msgstr "Last change"
+
+#: wp-content/plugins/activetrail/views/sections/logs.php:14
+msgid "No logs available"
+msgstr "No logs available"
+
+#: wp-content/plugins/activetrail/views/sections/general.php:23
+msgid "Enable plugin logging?"
+msgstr "Enable plugin logging?"
+
+#: wp-content/plugins/activetrail/views/sections/general.php:25
+msgid "Check this box if you want to turn on plugin logging (Helps if you encounter any problems with the plugin)."
+msgstr "Check this box if you want to turn on plugin logging (Helps if you encounter any problems with the plugin)."
+
+#: wp-content/plugins/activetrail/views/sections/general.php:32
+msgid "Apply"
+msgstr "Apply"
+
+#: wp-content/plugins/activetrail/views/sections/general.php:47
+#, php-format
+msgid ""
+"You need to enter your ActiveTrail.com username and password in order to integrate.\n"
+" If you didn't register, you can do it <a href=\"%s\">here.</a>"
+msgstr ""
+"You need to enter your ActiveTrail.com username and password in order to integrate.\n"
+" If you didn't register, you can do it <a href=\"%s\">here.</a>"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:61
+#, fuzzy
+msgid "Add custom text"
+msgstr "Set custom text"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:67
+msgid "Set custom text"
+msgstr "Set custom text"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:73
+msgid "Select Fields Layout"
+msgstr "Select Fields Layout"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:133
+msgid "Button text <small style=\"font-weight:normal;\">(on your form)</small>"
+msgstr "Button text <small style=\"font-weight:normal;\">(on your form)</small>"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:135
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:146
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:151
+#, fuzzy
+msgid "for example: "
+msgstr "for example, "
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:143
+msgid "Feedback message text"
+msgstr "Feedback message text"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:145
+#, fuzzy
+msgid "<small style=\"font-weight:normal;\">Success message</small>"
+msgstr "Button text <small style=\"font-weight:normal;\">(on your form)</small>"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:150
+#, fuzzy
+msgid "<small style=\"font-weight:normal;\">Error message</small>"
+msgstr "Button text <small style=\"font-weight:normal;\">(on your form)</small>"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:158
+msgid "Subscriber Groups <small style=\"font-weight:normal;\">(your subscribers will be added to these groups)</small>"
+msgstr "Subscriber Groups <small style=\"font-weight:normal;\">(your subscribers will be added to these groups)</small>"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:185
+msgid "Import user as verified?"
+msgstr "Import user as verified?"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:188
+msgid "Check this box if you want users to be automatically marked as confirmed when they submit sign up form on your site."
+msgstr "Check this box if you want users to be automatically marked as confirmed when they submit sign up form on your site."
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:197
+msgid "Disable ajax?"
+msgstr "Disable ajax?"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:199
+msgid "Check this box if you want to disable fancy ajax submit (Ajax does not refresh the page when the form is submitted!)."
+msgstr "Check this box if you want to disable fancy ajax submit (Ajax does not refresh the page when the form is submitted!)."
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:209
+msgid "Generate Code"
+msgstr "Generate Code"
+
+#: wp-content/plugins/activetrail/views/sections/shortcodes.php:218
+msgid "Shortcode generated! <strong>Copy the code below and paste it inside your page or post.</strong>"
+msgstr "Shortcode generated! <strong>Copy the code below and paste it inside your page or post.</strong>"
+
+#~ msgid "Only E-mail, no custom style - use theme style"
+#~ msgstr "Only E-mail, no custom style - use theme style"
+
+#~ msgid "First name, last name, e-mail, no custom style - use theme style"
+#~ msgstr "First name, last name, e-mail, no custom style - use theme style"
+
+#~ msgid "Sign up form as widget."
+#~ msgstr "Sign up form as widget."
+
+#~ msgid "Sign up for newsletter!"
+#~ msgstr "Sign up for newsletter!"
+
+#~ msgid "Description:"
+#~ msgstr "Description:"
+
+#~ msgid "General Options"
+#~ msgstr "General Options"
+
+#~ msgid "Groups"
+#~ msgstr "Groups"
+
+#~ msgid "Logs"
+#~ msgstr "Logs"
+
+#~ msgid "Short Codes"
+#~ msgstr "Short Codes"
+
+#~ msgid "Save"
+#~ msgstr "Save"
+
+#~ msgid "Check Login"
+#~ msgstr "Check Login"
+
+#~ msgid "Shortcode generated!"
+#~ msgstr "Shortcode generated!"
+
+#~ msgid "Copy the shortcode <b>above</b> inside your page or post."
+#~ msgstr "Copy the shortcode <b>above</b> inside your page or post."
+
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Choose title for this shortcode"
+#~ msgstr "Choose title for this shortcode"
+
+#~ msgid "Group"
+#~ msgstr "Group"
+
+#~ msgid ""
+#~ "Choose group. Group lists are cached on the site for performance. <a href="
+#~ "\""
+#~ msgstr ""
+#~ "Choose group. Group lists are cached on the site for performance. <a href="
+#~ "\""
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#~ msgid "Button text"
+#~ msgstr "Button text"
+
+#~ msgid "Choose button text for this shortcode"
+#~ msgstr "Choose button text for this shortcode"
